@@ -1,6 +1,5 @@
 {
   "name": "portfolio",
-  
   "sideEffects": false,
   "type": "module",
   "scripts": {
